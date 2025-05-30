@@ -37,8 +37,8 @@ export const gridItems = [
   },
   {
     id: 3,
-    title: "Our job is to connect companies with people who matter.",
-    description: "Inside ministries, public institutions, and corporate leadership.",
+    title: "",
+    description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-center",
@@ -290,21 +290,9 @@ export const companies = [
   },
   {
     id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
-  },
-  {
-    id: 4,
     name: "stream",
     img: "/s.svg",
     nameImg: "/streamName.svg",
-  },
-  {
-    id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
   },
 ];
 
